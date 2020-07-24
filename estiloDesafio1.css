@@ -1,0 +1,21 @@
+html,body{
+    margin: 0;
+}
+
+#imagem_fundo{
+    background-image: url(Solar.jpg);
+    background-size: 2000px;
+    height: 950px;
+    text-align: center;
+    padding: 100;
+}
+#titulo{
+    font-size: xx-large;
+    text-align: center;
+    color: black;
+}
+.texto{
+    padding: 10px;
+    font-size: large;
+    color: black;
+}
